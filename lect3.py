@@ -1,6 +1,21 @@
-var1 = "hello world"
-var4 = "Ravi"
-var2 = 4
-var3 = 36.7
-print(var2+var3)
-print(type(var1))
+# var1 = "54"
+# var4 = "32"
+# var2 = 4
+# var3 = 36.7
+#print(int(var1)+int(var4))
+#print(100 * "Hello World\n")
+
+# print("Enter your number")
+# inpnum = input()
+# print("You Enter",int(inpnum)+10)
+"""
+str()
+int()
+float()
+"""
+#print(type(var1))
+print("Enter first number")
+n1 = input()
+print("Enter second number")
+n2 = input()
+print("sum of these number is",int(n1)+int(n2))
